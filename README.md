@@ -1,4 +1,4 @@
-# MarsPhotos App
+# MarsPhotos App 🛰️
 ==================================
 
 Introduction
