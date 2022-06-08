@@ -18,7 +18,7 @@ as a REST web service.
 
 You can Install and test latest MarsPhotos App using the below (APK file)
 
-### [MarsPhotos App download](https://drive.google.com/file/d/15jSIioOgCszWByBoh4UMJzM3iNzwWPKS/view?usp=sharing)
+# [MarsPhotos App download](https://drive.google.com/file/d/15jSIioOgCszWByBoh4UMJzM3iNzwWPKS/view?usp=sharing)
 
 ## Built With 🛠
 ----------------
